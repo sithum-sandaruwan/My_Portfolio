@@ -49,18 +49,18 @@ nav ul li{
 .mail{
 
     text-decoration: none;
-    margin-left: 8%;
+    margin-left: 1%;
     margin-top: 15%;
-    color: #000000;
+    color: #00000077;
     font-weight: bold;
 }
 
 .call{
 
     text-decoration: none;
-    margin-left: 20%;
-    margin-top: -1.2%;
-    color: black;
+    margin-left: 15%;
+    margin-top: -7%;
+    color: rgba(0, 0, 0, 0.438);
     font-weight: bold;
 }
 
