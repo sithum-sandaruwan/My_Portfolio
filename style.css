@@ -59,9 +59,10 @@ span {
 }
 
 .detail p {
-    color: #575353;
     line-height: 22px;
     font-size: 25px;
+    color: #575353;
+
 }
 
 .detail a {
@@ -79,21 +80,24 @@ span {
 .mail {
 
     text-decoration: none;
-    margin-left: 14%;
-    margin-top: -7.2%;
     margin-bottom: 50%;
     color: #5351518b;
     font-weight: bold;
+    margin-left: 14%;
+    margin-top: -7.2%;
+
 
 }
 
 .call {
 
     text-decoration: none;
-    margin-left: 29%;
-    margin-top: -57%;
     color: #5351518b;
     font-weight: bold;
+    margin-left: 29%;
+    margin-top: -57%;
+
+
 
 }
 
