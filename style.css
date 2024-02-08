@@ -11,7 +11,7 @@
     position: relative;
     width: 100%;
     height: 100vh;
-    background: #84a3dc;
+    background: #0750e1d3;
 }
 
 nav{
@@ -42,8 +42,26 @@ nav ul li{
 .detail{
 
     margin-left: 8%;
-    margin-top: 12%;
+    margin-top: 10%;
 
+}
+
+.mail{
+
+    text-decoration: none;
+    margin-left: 8%;
+    margin-top: 15%;
+    color: #000000;
+    font-weight: bold;
+}
+
+.call{
+
+    text-decoration: none;
+    margin-left: 20%;
+    margin-top: -1.2%;
+    color: black;
+    font-weight: bold;
 }
 
 .detail h1{
@@ -53,7 +71,7 @@ nav ul li{
 }
 
 span{
-    color: orange;
+    color: rgb(237, 139, 12);
 }
 
 .detail p{
