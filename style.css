@@ -46,23 +46,7 @@ nav ul li{
 
 }
 
-.mail{
 
-    text-decoration: none;
-    margin-left: 1%;
-    margin-top: 15%;
-    color: #00000077;
-    font-weight: bold;
-}
-
-.call{
-
-    text-decoration: none;
-    margin-left: 15%;
-    margin-top: -7%;
-    color: rgba(0, 0, 0, 0.438);
-    font-weight: bold;
-}
 
 .detail h1{
     font-size: 55px;
@@ -82,7 +66,7 @@ span{
 
 .detail a{
 
-    background: #212121;
+    background: #1e1e1e99;
     padding: 10px 18px;
     text-decoration: none;
     font-weight: bold;
@@ -90,6 +74,26 @@ span{
     display: inline-block;
     margin: 30px 0;
     border-radius: 5px;
+}
+.mail{
+
+    text-decoration: none;
+    margin-left: 14%;
+    margin-top: -7.2%;
+    margin-bottom: 50%;
+    color: #5351518b;
+    font-weight: bold;
+    
+}
+
+.call{
+
+    text-decoration: none;
+    margin-left: 29%;
+    margin-top: -57%;
+    color: #5351518b;
+    font-weight: bold;
+    
 }
 
 .images{
