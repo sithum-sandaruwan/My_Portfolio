@@ -27,16 +27,18 @@ header {
     display: flex;
     justify-content: space-between;
     align-items:center;
-    z-index: 100;
+    z-index: 400;
     
 }
 
-nav{
+#nav{
     background-color: rgb(247, 203, 8) ;
-    margin-left: 60%;
+    margin-left: 90%;
+    
+    
 }
 
-nav a{
+#nav a{
     margin-left: 30px;
     text-decoration: none;
     font-weight: 400;
@@ -72,7 +74,11 @@ span {
     line-height: 22px;
     font-size: 25px;
     color: #575353;
+ 
+}
 
+#secondPara{
+    margin-top: 10%;
 }
 
 .detail a {
@@ -85,19 +91,39 @@ span {
     display: inline-block;
     margin: 30px 0;
     border-radius: 5px;
+
 }
 
 
+#instagramIcon img{
 
-.images {
+    
+   margin-left: -40%;
+    margin-bottom: 20%;
+    width: 3.5%;
+    height: 7%;
+}
+
+
+#facebookIcon img{
+    margin-left: -35%;
+    margin-bottom: 20%;
+    width: 3.5%;
+    height: 7%;
+}
+
+
+#images {
     width: 45%;
     height: 80%;
     position: absolute;
     bottom: 0%;
-    right: 100px;
+    right: 5%;
+
+    
 }
 
-.images img {
+#images.shape,img{
 
     height: 100%;
     position: absolute;
@@ -107,7 +133,7 @@ span {
     transition: bottom 1s, left 1s;
 }
 
-.images:hover.shape {
+#images:hover.shape {
 
     bottom: 40px;
     height: 60px;
@@ -115,7 +141,7 @@ span {
     animation-duration: 2s;
 }
 
-.images:hover.img {
+#images:hover.img {
 
     left: 45%;
 
