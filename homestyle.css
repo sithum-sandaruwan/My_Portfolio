@@ -8,7 +8,7 @@
  
 #home{
     display: flex;
-    height: 100vh;
+    height: auto;
     
     background-image: url(img/portfolio-background05.jpg)
     
