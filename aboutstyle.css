@@ -3,32 +3,6 @@
     min-height: 100vh;
     display: flex;
     color: 0750e1d3;
-    background-color: rgba(235, 213, 12, 0.844);
+    background-color: rgba(205, 188, 34, 0.844);
 }
 
-.mail {
-
-    text-decoration: none;
-    margin-bottom: 50%;
-    color: #5351518b;
-    font-weight: bold;
-    margin-left: 14%;
-    margin-top: 20%;
-
-
-}
-
-.call {
-
-    text-decoration: none;
-    color: #5351518b;
-    font-weight: bold;
-    margin-left: 10%;
-    margin-top: 20%;
-
-}
-
-a {
-    margin-top: 20%;
-    font-weight: bold;
-}
