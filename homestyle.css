@@ -8,8 +8,8 @@
  
 #home{
     display: flex;
-    height: auto;
-    width: auto;
+    min-height: auto;
+    max-width: auto;
     background-image: url(img/portfolio-background05.jpg)
     
 }
@@ -20,9 +20,7 @@
     margin-inline-start: 5% ;
 
 }
-#Sandaruwan{
-    color: aliceblue;
-}
+
 
 
 
