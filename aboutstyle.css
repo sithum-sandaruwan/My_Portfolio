@@ -2,6 +2,10 @@
 
     min-height: 100vh;
     display: flex;
-    background-image: url(img/abstract-5035370_1920.jpg);
-    
+    background-image: url(img/portfolio-background11.png)    
+}
+
+#aboutpara{
+
+    color: aliceblue;
 }
