@@ -2,10 +2,17 @@
 
     min-height: 100vh;
     display: flex;
-    background-image: url(img/portfolio-background11.png)    
+    background-image: url(img/portfolio-background11.png)
 }
 
-#aboutpara{
+#aboutpara {
 
     color: aliceblue;
+}
+
+#SithumSandaruwan {
+
+    font-size: 50px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
