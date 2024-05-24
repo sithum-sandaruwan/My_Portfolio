@@ -1,6 +1,7 @@
 #about {
 
     min-height: 100vh;
+    
     display: flex;
     background-image: url(img/portfolio-background11.png)
 }
@@ -15,4 +16,10 @@
     font-size: 50px;
     font-weight: bold;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#skill-icons{
+    max-width: 60px;
+    min-width: 60px;
+    margin-right: 10px;
 }
