@@ -1,0 +1,7 @@
+#education {
+
+    min-height: 100vh;
+    
+    display: flex;
+    background-image: url(img/portfolio-background11.png)
+}
